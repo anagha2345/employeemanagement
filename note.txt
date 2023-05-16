@@ -1,0 +1,11 @@
+unique id generation 
+--------------------
+uuid  -library used to create unique ids
+
+installation   npm i react-uuid
+
+
+redirection in react
+-------------------------
+link
+useNavigate  -hook for redirection
